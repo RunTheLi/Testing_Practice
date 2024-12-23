@@ -1,0 +1,16 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Using ES6 import statements with Jest By default, the current version of Jest will not recognize ES6 import statements. In order for you to be able to use ES6 modules for this project you may follow the Jest instructions for using Babel.",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
